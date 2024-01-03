@@ -31,7 +31,8 @@ with open('text.txt','r') as file1:
 print("Number of words={}".format(num_words))
 ```
 ### OUTPUT:
-![Alt text](<Screenshot 2024-01-03 170938.png>)
+![Screenshot 2024-01-03 170938](https://github.com/akashmano/Word-count/assets/137408306/eb9ddeac-8841-437e-a216-c51e5b8c8879)
+
 
 
 ## RESULT:
